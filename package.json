@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "learning electron",
+  "main": "main.js",
+  "author": "Ferid",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
